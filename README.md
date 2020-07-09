@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on Harvard's CS50 course, looking forward to learning all about software engineering!
+
 <!--
 **imchristianhughes/imchristianhughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
